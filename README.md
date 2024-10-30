@@ -40,7 +40,7 @@ Data Collection -> Rice Data Extraction -> Data Preprocessing -> Model Training 
 ```
 
 ## Block Diagram
-![Crop Yield Prediction and Area Calculation](path/to/image.png)
+![Crop Yield Prediction and Area Calculation](/images/blockDiagram.jpg)
 
 ## Data Collection
 
@@ -82,7 +82,7 @@ A simple yet functional web interface is developed using Flask and JavaScript to
 - **Graphical Visualization:** Visualizing trends and results for easier interpretation.
 
 To start the web interface, run the `app.py` file and open the provided local server link in your browser.
-![Web Interface of Crop Yield Prediction and Area Calculation](path/to/image.png)
+![Web Interface of Crop Yield Prediction and Area Calculation](/images/Screenshot(44).png)
 
 
 ---
